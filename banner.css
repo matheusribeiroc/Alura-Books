@@ -26,4 +26,6 @@
     font-weight: 400;
     text-align: center;
     color: var(--branco);
+    background: url("./img/image\ copy\ 4.png");
+    background-position: 1em;
 }
