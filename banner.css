@@ -29,3 +29,36 @@
     background: url("./img/image\ copy\ 4.png");
     background-position: 1em;
 }
+@media screen and (min-width: 1024px) {
+    .banner-titulo {
+    font-size: 36px;
+    
+    }
+    }
+    .banner-pesquisa{
+        width: 50%;
+    }
+    .banner-pesquisa ::placeholder{
+        background-position: 26px;
+    }
+    @media screen and (min-width: 1024px) {
+        .carrossel-titulo {
+        font-size: 26px;
+        
+        }
+        }
+        .swiper-pagination{
+            margin: 2em 0 3em 0;
+        }
+        .swiper{
+            width: 60%;
+        }
+        .swiper-botton-prev,
+        .swiper-botton-next{
+            display: block;
+            top: 60%;
+        }
+        .card{
+            width: 40%;
+            margin: 2em auto;
+        }
