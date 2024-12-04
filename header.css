@@ -95,3 +95,6 @@
     -webkit-text-fill-color: var(--branco);
     text-decoration: none;
 }
+ul{
+    list-style-type: none;
+}
