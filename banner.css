@@ -24,7 +24,7 @@
     width: 100%;
 }
 
-.banner-pesquisa::placeholder {
+.banner-pesquisa:placeholder {
     font-family: var(--fonte-principal);
     font-size: 14px;
     font-weight: 400;
@@ -43,7 +43,7 @@
         width: 50%;
     }
 
-    .banner-pesquisa::placeholder {
+    .banner-pesquisa:placeholder {
         background-position: 7em;
     }
 }
@@ -59,7 +59,7 @@
         padding: 6em 0;
     }
 
-    .banner-pesquisa::placeholder {
+    .banner-pesquisa:placeholder {
         background-position: 12em;
     }
 
